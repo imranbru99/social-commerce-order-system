@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "social-commerce-order-system",
+  "description": "Social Commerce Order System — Ecommerce Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Social commerce for Facebook/WhatsApp orders, confirmations, courier booking, and COD. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "ecommerce",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/social-commerce-order-system"
+}
